@@ -12,7 +12,7 @@ This is not officially supported application. It was created because official Vi
 #### Download (<a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net46-web-installer"><img alt="GitHub release" src="https://img.shields.io/badge/Requires-.NET%20Framework%204.6%20(or later)-blue"></a>)
 Please go to [releases page](https://github.com/SamuelTulach/VirusTotalUploader/releases) to download compiled app and installer. *Don't forget to star the repo!*
 
-#### How to get API key
+#### How to get API key hhh
 It is really simple! All you need to do is to go to [VirusTotal official page](https://www.virustotal.com/), create profile and copy your key.
 
 <img src="assets/1.gif" />
